@@ -219,7 +219,7 @@ with st.expander("ℹ️ Jak korzystać z aplikacji?", expanded=False):
                 <h4>Jestem Twoim osobistym Pomocnikiem Językowym!</h4>
                 <p>1. Mogę dla Ciebie przetłumaczyć tekst na wybrany język obcy. </p>
                 <p>2. Mogę również pomóc w sprawdzeniu pisowni dowolnie wpisanego języka. </p2>
-                <p>3. Otrzymasz ode mnie analizę w postaci notatki tekstowej, którą możesz sobie zedytować i zapisać na później.  </p3>
+                <p>3. Otrzymasz ode mnie analizę w postaci notatki tekstowej, którą możesz zapisać na później.  </p3>
                 <p>4. Możesz również odsłuchać analizę w formie dźwiękowej.</p4>
                 <h3> Miłego korzystania!</h3>
                 </div>
