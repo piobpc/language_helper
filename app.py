@@ -11,9 +11,6 @@ from qdrant_client.models import PointStruct, Distance, VectorParams
 import uuid 
 from bs4 import BeautifulSoup
 
-if "openai_api_key" not in st.session_state:
-    st.session_state["openai_api_key"] = ""
-
 # dodajemy Qdrant i kolekcję o odpowiedniej nazwie
 EMBEDDING_MODEL = "text-embedding-3-large"
 EMBEDDING_DIM = 3072
